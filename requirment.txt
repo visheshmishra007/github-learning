@@ -6,3 +6,5 @@ Add colour
 
 Add Dark mode
 Add Video call
+
+Add Payment option
