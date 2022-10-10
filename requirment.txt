@@ -3,3 +3,6 @@ This is a chat application.
 Add Emoji
 Add Keybord Typing
 Add colour
+
+Add Dark mode
+Add Video call
